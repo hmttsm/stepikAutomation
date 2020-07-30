@@ -1,2 +1,6 @@
 # stepikAutomation
-Test Automation with Selenium and Python on the https://stepik.org/ with the sioffe@productengine.com
+
+Test Automation with Selenium and Python
+https://stepik.org/
+
+3.1.7 - the readme.md editing saving closing test
